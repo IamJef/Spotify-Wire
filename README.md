@@ -1,4 +1,4 @@
-# O que é Spotify Wire? :grey_question:
+# O que é Spotify Wire? 
 
 SpotifyWire é uma SPA que possibilita a pesquisa de artistas/bandas que estão no spotify.
 
@@ -15,7 +15,7 @@ SpotifyWire é uma SPA que possibilita a pesquisa de artistas/bandas que estão 
 3 - Rode "PHP artisan serve" <br/>
 4 - Abra a url "localhost:8000" (caso esteja a porta padrão do Laravel)
 
-# O que faltou? :sob:
+# O que faltou?
 
 1 - Remover dos favoritos <br />
 2 - Pagina com informações sobre o artista/banda dentro do próprio SPA
@@ -23,8 +23,3 @@ SpotifyWire é uma SPA que possibilita a pesquisa de artistas/bandas que estão 
 # Bibliotecas usadas :blue_heart:
 Larafy - https://github.com/rennokki/larafy (API Spotify) <br/>
 LiveWire - https://laravel-livewire.com/  (Para evitar o refresh no laravel)
-
-# Considerações finais :blush:
-Adimito que ainda possuo muita dificuldade com o VOSSO Vanilla puro, ainda me encontro muito dependente do Jquery. <br/>
-Foi bem divertido me empenhar algum tempo para esse projeto pois nunca havia trabalho com o API do Spotify e vi que é um API e tanto! <br/>
-e, também conheci a LiveWire(Foi amor a primeira vista), mesmo trabalhando a mais de ano com o Laravel não conhecia ela, no mais foi muito legal brincar com isso!
